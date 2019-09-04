@@ -12,7 +12,7 @@ body {
 
     background: rgba(45, 176, 224, 1);
     background: -moz-linear-gradient(45deg, rgba(45, 176, 224, 1) 0%, rgba(96, 40, 168, 1) 100%);
-    background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(45, 176, 224, 1)), color-stop(100%, rgba(96, 40, 168, 1)));
+    /*background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(45, 176, 224, 1)), color-stop(100%, rgba(96, 40, 168, 1)));*/
     background: -webkit-linear-gradient(45deg, rgba(45, 176, 224, 1) 0%, rgba(96, 40, 168, 1) 100%);
     background: -o-linear-gradient(45deg, rgba(45, 176, 224, 1) 0%, rgba(96, 40, 168, 1) 100%);
     background: -ms-linear-gradient(45deg, rgba(45, 176, 224, 1) 0%, rgba(96, 40, 168, 1) 100%);
@@ -30,7 +30,7 @@ body {
 
 .info {
     height: 55vh;
-    /*background: url("public/img/poligon.jpg") center center no-repeat;*/
+    background: url(./img/polygon.jpg) center center no-repeat;
     background-blend-mode: multiply;
     background-color: #484747;
     border: 2px solid #1f1f1f;
